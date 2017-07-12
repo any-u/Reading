@@ -1,4 +1,4 @@
-# 换源API
+# 换源
 **优质书源已被加密，不建议使用**
 ```
 url:api.zhuishushenqi.com/toc
