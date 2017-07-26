@@ -1,7 +1,7 @@
 
 # 小说分类
 ```
-url: api.zhuishushenqi.com/cats/lv2/statistcs      
+url: api.zhuishushenqi.com/cats/lv2/statistics      
 method: GET
 params:
     无  
