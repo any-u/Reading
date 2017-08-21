@@ -9,6 +9,7 @@
 * [书籍内容](https://github.com/ly321/Reading/blob/master/API/novel.md)
 * [排行](https://github.com/ly321/Reading/blob/master/API/rank.md)
 * [排行下小说](https://github.com/ly321/Reading/blob/master/API/rankBook.md)
+* [获取分类下小列表](https://github.com/ly321/Reading/blob/master/API/catalogList.md)
 
 **API仅供个人开发使用**
 ## 代理服务器
