@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "start": "cross-env NODE_ENV=dev node bin/www",
+    "dev": "cross-env NODE_ENV=dev ./node_modules/.bin/nodemon bin/www"
+  },
+  "dependencies": {
+    "koa": "^2.8.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-convert": "^1.2.0",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.2.1",
+    "koa-onerror": "^4.1.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0"
+  }
+}
