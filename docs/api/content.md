@@ -1,4 +1,4 @@
-# 小说分类
+# 小说正文
 
 - <strong>URL</strong>  
   chapter2.zhuishushenqi.com/chapter/章节link(从章节列表中获得)?k=2124b73d7e2e1945&t=1468223717

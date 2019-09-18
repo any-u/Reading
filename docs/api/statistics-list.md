@@ -1,4 +1,4 @@
-# 小说分类
+# 小说小分类
 
 - <strong>URL</strong>  
   api.zhuishushenqi.com/cats/lv2

@@ -1,4 +1,4 @@
-# 小说分类
+# 榜单
 
 - <strong>URL</strong>  
   api.zhuishushenqi.com/ranking/gender 

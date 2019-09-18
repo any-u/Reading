@@ -1,4 +1,4 @@
-# 小说分类
+# 榜单列表
 
 - <strong>URL</strong>  
   api.zhuishushenqi.com/ranking/id(rank中的id)
