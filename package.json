@@ -1,6 +1,6 @@
 {
   "name": "reading",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "追书神器API",
   "main": "index.js",
   "directories": {
